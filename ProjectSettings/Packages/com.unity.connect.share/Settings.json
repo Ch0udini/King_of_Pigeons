@@ -11,7 +11,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"Y:/game_design_WSE/build_16.05;;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"Y:/game_design_WSE/build 02.07;Y:/game_design_WSE/build_16.05;;;;;;;;\"}"
             },
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
